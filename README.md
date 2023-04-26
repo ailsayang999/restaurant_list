@@ -1,5 +1,5 @@
 # Restaurant List
-[![Project Image](https://github.com/ailsayang999/restaurant_list/blob/main/2-3_A1_restaurant_list_AilsaYang.png)]
+![Project Image](https://github.com/ailsayang999/restaurant_list/blob/main/2-3_A1_restaurant_list_AilsaYang.png)
 This simple web application can help users find the restaurant in the list and its information.
 
 
