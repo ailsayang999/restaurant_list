@@ -14,7 +14,7 @@ $ cd restaurant_list
 $ npm install
 ```
 ```
-$ nodemon app.js
+$ npm run dev
 ```
 4. Open your web browser and navigate to http://localhost:3000.
 
